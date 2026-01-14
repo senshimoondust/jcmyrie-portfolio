@@ -17,6 +17,12 @@ body {
   background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/048/702/original/pexels-designecologist-1779487_%281%29.jpg?1665839696");
 }
 
+img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
 main {
   display: block;
   margin: 0 auto;
