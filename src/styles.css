@@ -44,12 +44,12 @@ footer {
   font-size: 14px;
   text-align: center;
   font-weight: bold;
-  text-decoration: underline;
   color: #e4dbef;
   background-color: #0b070c;
   border: 2px solid #e4dbef;
   border-radius: 10px;
-  width: 15%;
+  max-width: 600px;
+  width: 25%;
   padding: 10px;
 }
 
